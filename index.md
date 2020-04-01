@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/bailee-marie4/COVID-19-overview/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to Bailee Falkler's Blog
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Post #1, a brief overview of “COVID-19: Epidemiology, Evolution, and Cross-Disciplinary Perspectives” – Cell Press
 
-```markdown
-Syntax highlighted code block
+## **Bold** What you may already know
 
-# Header 1
-## Header 2
-### Header 3
+### As we are all well aware at this point, there has been a recent emergence of a virus known as COVID-19. This falls in the class of Coronaviridae (CoV) and is now the seventh member. This specific class of viruses are known to infect a range of hosts including birds and mammals and target the respiratory system. Two other forms of CoV, severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV), have had a similar effect to the respiratory system, but a much lower Reproductive number (R0) and infection rate. Luckily, while it has proven to have a larger infection rate, COVID-19 has had a much lower fatality rate to its two most comparable CoV counterparts, SARS and MERS. The COVID-19 fatality rate falls between .07% and 3.4% depending on the infected country while he SARS rate was 9.6% and the MERS rate was 34.4%. The COVID-19 virus tends to attack those who have underlying illness such as high blood pressure or diabetes. In addition, a host may not always exhibit symptoms, but still have the ability to pass it on to another person. Overall, the best way to decrease the infection and fatality rates are to isolate and prevent the spread of the virus. 
 
-- Bulleted
-- List
+## **Bold** What you may not know
 
-1. Numbered
-2. List
+### In the past, bat viruses have adapted and gained the ability to shift from one species to another in order to infect a larger population. Due to the abundance of SARS-like-CoV in a species of bats found in the origin site of both SARS and COVID-19, the public looked to bats as the source of infection. It has since been proven that this may not have been the case. During the outbreak period, bats were in hibernation. It has since been found that there are multiple lineages of pangolin CoVs that are similar to COVID-19, causing the pangolin to be a potential intermediate in the spread of the virus. Due to this host-species expansion, there is a large genome with a high probability of mutation, causing this virus to be the spotlight of a potential national pandemic for years to come. 
 
-**Bold** and _Italic_ and `Code` text
+# Check Back at a Later Time for More Content!
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bailee-marie4/COVID-19-overview/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
